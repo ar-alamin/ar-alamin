@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-alamin&label=Profile%20views&color=0e75b6&style=flat" alt="ar-alamin" /> </p>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **github**
 
-- 💬 Ask me about **MEARN, Android**
+- 💬 Ask me about **Android**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
