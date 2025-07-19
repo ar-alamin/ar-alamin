@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm ABDUR RAHMAN AL ALMIN
 
 ### 🚀 Software Developer | Golang • Python • JavaScript
 
