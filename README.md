@@ -25,8 +25,9 @@ I'm a passionate backend developer with a strong background in backend developme
 
 ### 📌 Featured Projects
 
-- 🔧 **[Project Name](https://github.com/yourusername/project-name)**  
-  _Short description about what it does and tech used._
+- 🔧 **[Online Lawyer Consultation Management System](https://github.com/ar-alamin/olcms)**  
+  _ Users can browse available lawyers, schedule consultations, and view their appointment history. Legal professionals can manage their availability, accept or decline consultation         requests, and maintain records of their cases.
+  _ Tools Used: JavaScript, React, Express Js, Mongo DB
 
 - 📦 **[Another Project](https://github.com/yourusername/project-name)**  
   _Another short description or highlight._
